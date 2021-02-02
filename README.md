@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on social media platform 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Tech Related Stuff
-- 📫 How to reach me: On my email address anuradha.g13patidar@gmail.com
+- 📫 How to reach me: anuradha.g13patidar@gmail.com , [LinkedIn - @anuradhaPatidar](https://www.linkedin.com/in/anuradha-patidar-02b153177/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i am always a noob and so everyone else
 
