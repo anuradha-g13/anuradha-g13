@@ -7,3 +7,9 @@
 - 📫 How to reach me: anuradha.g13patidar@gmail.com
 - ⚡ Fun fact: I am always a noob, but that makes me keep going. 🤔 wait..... thats wieard
 
+![Anuradha's github stats](https://github-readme-stats.vercel.app/api?username=anuradha-g13&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuradha-g13&langs_count=8&hide=dcl)
+
+### Coding Profile:
+- [HackerRank](https://www.hackerrank.com/anuradha_g13?hr_r=1) |
