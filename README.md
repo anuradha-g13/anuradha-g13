@@ -1,11 +1,9 @@
-### This is Anuradha patidar 👋
+### Hi from Anuradha patidar 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on social media platform 
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on chatting App
+- 🌱 I’m currently learning React , Python
+- 👯 I’m looking to collaborate on  [LinkedIn - @anuradhaPatidar](https://www.linkedin.com/in/anuradha-patidar-02b153177/)
 - 💬 Ask me about Tech Related Stuff
-- 📫 How to reach me: anuradha.g13patidar@gmail.com , [LinkedIn - @anuradhaPatidar](https://www.linkedin.com/in/anuradha-patidar-02b153177/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i am always a noob and so everyone else
+- 📫 How to reach me: anuradha.g13patidar@gmail.com
+- ⚡ Fun fact: I am always a noob, but that makes me keep going. 🤔 wait..... thats wieard
 
