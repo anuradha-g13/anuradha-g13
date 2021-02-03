@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on  [LinkedIn - @anuradhaPatidar](https://www.linkedin.com/in/anuradha-patidar-02b153177/)
 - 💬 Ask me about Tech Related Stuff
 - 📫 How to reach me: anuradha.g13patidar@gmail.com
-- ⚡ Fun fact: I am always a noob, but that makes me keep going. 🤔 wait..... thats wieard
+- ⚡ Fun fact: I am always a noob, but that makes me keep going. 🤔 wait..... thats weird
 
 ![Anuradha's github stats](https://github-readme-stats.vercel.app/api?username=anuradha-g13&count_private=true&show_icons=true)
 
